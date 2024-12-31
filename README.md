@@ -10,12 +10,15 @@ A view of the channel's videos tab sorted by popular.
 
 ### Branding
 ![Banner](https://raw.githubusercontent.com/jackgraddon/lyndentechtips/main/Branding/Banner.png)
+
 Banner
 
 ![Logo](https://raw.githubusercontent.com/jackgraddon/lyndentechtips/main/Branding/Logo.png)
+
 Logo
 
 ![Seal](https://raw.githubusercontent.com/jackgraddon/lyndentechtips/main/Branding/Seal.png)
+
 Seal
 
 ## Links
